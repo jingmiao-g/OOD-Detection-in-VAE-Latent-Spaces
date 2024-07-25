@@ -19,7 +19,7 @@ By running our boundary sampler (PGBS), we can define and sample from the "bound
 
 
 Step 3:
-We can then regularise the VAE encoder to encode OOD samples into the boundary we have defined in latent space, which enables VAE + PGBS to perform accurate OOD detection for IND
+We can then regularise the VAE encoder to encode OOD samples into the boundary we have defined in latent space, which enables VAE + PGBS to perform accurate OOD detection
 
 ![Z_regularised](https://github.com/user-attachments/assets/b461142f-bbc6-4aaa-9168-668ba66a8ecb)
 
