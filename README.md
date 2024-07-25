@@ -10,8 +10,11 @@ A VAE is trained to project IND into another 2-D latent space:
 ![Z](https://github.com/user-attachments/assets/215b24b6-97a5-4811-a9bf-85d2c13430e0)
 
 
+
 Step 2:
 By running our boundary sampler (PGBS), we can define and sample from the "boundary" of IND in latent space
+
+
 
 Step 3:
 We can then let OOD samples to fit into the boundary we have defined in latent space, which enables VAE + PGBS to perform accurate OOD detection for IND
