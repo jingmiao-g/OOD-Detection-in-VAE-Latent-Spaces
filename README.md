@@ -2,6 +2,8 @@
 This repository includes the python/pytorch implementation of the case study in out recent ICASSP2025 manuscript:
 SPATIALLY DISENTANGLE IN-DOMAIN AND OUT-OF-DOMAIN IN LATENT SPACE
 
+Same observations can be reproduced by running jupyterlab files Step1, Step2 and Step3 in order.
+
 Step 1:
 In data space (2D), we assume Gaussian distribution(s) as in-domain (IND), out-of-domain (OOD) for training:
 
