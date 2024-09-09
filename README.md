@@ -5,6 +5,8 @@ Improved Out-of-domain Detection in VAE Latent Spaces with Boundary-driven Regul
 
 Authors: Miao JING, Vidhyasaharan Sethu, Beena Ahmed 
 Institution: The University of New South Wales
+Date: 2024 September
+
 
 Same observations can be reproduced by running jupyterlab files Step1, Step2 and Step3 in order.
 
