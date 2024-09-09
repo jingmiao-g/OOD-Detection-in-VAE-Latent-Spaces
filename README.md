@@ -3,8 +3,10 @@ This repository includes the python/pytorch implementation of the case study in 
 
 Improved Out-of-domain Detection in VAE Latent Spaces with Boundary-driven Regularisation
 
-Authors: Miao JING, Vidhyasaharan Sethu, Beena Ahmed 
+Authors: Miao JING, Vidhyasaharan Sethu, Beena Ahmed
+
 Institution: The University of New South Wales
+
 Date: 2024 September
 
 
