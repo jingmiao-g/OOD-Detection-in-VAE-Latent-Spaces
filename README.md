@@ -1,6 +1,6 @@
-# Disentngling IND and OOD in VAE latent space
+# Separating IND and OOD in VAE latent space
 This repository includes the python/pytorch implementation of the case study in out recent ICASSP2025 manuscript:
-SPATIALLY DISENTANGLE IN-DOMAIN AND OUT-OF-DOMAIN IN LATENT SPACE
+Improved Out-of-domain Detection in VAE Latent Spaces with Boundary-driven Regularisation
 
 Same observations can be reproduced by running jupyterlab files Step1, Step2 and Step3 in order.
 
