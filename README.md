@@ -1,6 +1,10 @@
 # Separating IND and OOD in VAE latent space
 This repository includes the python/pytorch implementation of the case study in out recent ICASSP2025 manuscript:
+
 Improved Out-of-domain Detection in VAE Latent Spaces with Boundary-driven Regularisation
+
+Authors: Miao JING, Vidhyasaharan Sethu, Beena Ahmed 
+Institution: The University of New South Wales
 
 Same observations can be reproduced by running jupyterlab files Step1, Step2 and Step3 in order.
 
